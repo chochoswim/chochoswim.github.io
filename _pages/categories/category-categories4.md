@@ -1,9 +1,9 @@
 ---
-title: "Categories4"
+title: "Diary"
 layout: category
 permalink: /categories/categories4/
 author_profile: true
-taxonomy: Categories4
+taxonomy: Diary
 sidebar:
   nav: "categories"
 ---

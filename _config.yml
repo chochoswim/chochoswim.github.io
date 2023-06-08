@@ -19,14 +19,14 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "Blog Name Here" # 상단 헤더에 보이는 블로그 명
+title: "우당탕" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
-name: "your name here" # 블로그 닉네임 설정
-description: "this is my blog!" # 블로그 설명
-url: "https://github-account.github.io" # 블로그 URL
+name: "bonnycho" # 블로그 닉네임 설정
+description: "쪼렙 데이터 분석가의 하루하루 성장 일기" # 블로그 설명
+url: "https://chochoswim.github.io/" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "github-account/github-account.github.io" # GitHub Repo 이름
+repository: "chochoswim/utterances" # GitHub Repo 이름
 teaser: #
 
 # logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
@@ -36,7 +36,7 @@ words_per_minute: 200
 comments:
   provider: "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname: # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname: # https://help.disqus.com/customer/portal/articles/466208-what-sea-shortname-
   discourse:
     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -98,11 +98,11 @@ analytics:
 
 # Site Author
 author:
-  name: "your name here" # 블로그 닉네임
-  avatar: "/assets/images/meee.png" # 블로그 프로필 사진
+  name: "bonnycho" # 블로그 닉네임
+  avatar: "/assets/images/6v9e092hz79h569v7poy.jpg" # 블로그 프로필 사진
   #   bio              : "hi all!"
-  # location         : "Seoul, Korea"
-  # email            : "youremailhere@xxxxxx.com"
+  location         : "Seoul, Korea"
+  email            : "chochoswim98@gmail.com"
 
   links: # 사이트 링크
 #     - label: "Email"

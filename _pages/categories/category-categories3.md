@@ -1,9 +1,9 @@
 ---
-title: "Categories3"
+title: "Review"
 layout: category
 permalink: /categories/categories3/
 author_profile: true
-taxonomy: Categories3
+taxonomy: Review
 sidebar:
   nav: "categories"
 ---
