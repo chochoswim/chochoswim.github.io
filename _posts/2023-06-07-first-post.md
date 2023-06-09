@@ -9,6 +9,10 @@ toc_sticky: true
 
 date: 2023-06-07 
 last_modified_at: 2023-06-07 
+
+sitemap:
+  changefreq: daily
+  priority : 1.0
 ---
 
 ## 연습문제 2.1 테이블 개선하기
