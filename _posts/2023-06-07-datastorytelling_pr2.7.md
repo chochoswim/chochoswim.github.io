@@ -1,5 +1,7 @@
 ---
 title:  "[데이터 분석] 데이터 스토리텔링 연습문제 2.7"
+excerpt: " "
+
 categories:
   - 데이터 분석
 tags:
